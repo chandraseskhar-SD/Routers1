@@ -1,0 +1,25 @@
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root{
+    height: 30px;
+    background-color: aqua;
+}
+.css-1ff8729-MuiInputBase-root-MuiFilledInput-root{
+    height: 30px;
+  
+}
+.form{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.css-1yqeuor-MuiStack-root>:not(style)~:not(style){
+    width: 195px
+}
+.css-i4bv87-MuiSvgIcon-root{
+    visibility: "hidden";
+}
